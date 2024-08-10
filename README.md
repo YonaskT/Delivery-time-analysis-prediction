@@ -1,3 +1,4 @@
 # Delivery-time-prediction
-Delivery time on food orders can be affected by several factors and we will see what factors contributed more to an order being delivered quicker.
-In order to do that it is vital for a delivery service provider to build a machine learning model that can predict food order delivery time.
+Accurate food order delivery time prediction is crucial for enhancing customer satisfaction and optimizing operations.
+
+This project aims to develop a machine learning model capable of forecasting delivery times. By identifying and analyzing key factors influencing delivery speed, companies can improve service reliability and transparency. To build this predictive model, various factors were examined, including the distance between the restaurant and customer, to uncover their impact on delivery time.
